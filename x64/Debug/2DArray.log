@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\2DArray\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  2DArray.vcxproj -> D:\Reza\Game Projects\C++\Basic\2DArray\x64\Debug\2DArray.exe
